@@ -1,2 +1,2 @@
 # cko-wordpress-docker-testshop
-Wordpress Docker Test Shop latest version
+Wordpress Docker Test Shop
